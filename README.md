@@ -1,5 +1,6 @@
 # *uiowa_bd_4D*
-modified version of uiowa_bd that allows 4D simulations
+
+### This is a modified version of uiowa_bd that allows 4D simulations - it is designed for use currently with our RNA modeling code which is currently under review
 
 ### Please note: the source code provided here is fully functional but the documentation is a work in progress. The example applications described briefly below will be posted into the EXAMPLES folder as soon as the paper referencing *uiowa_bd* is posted, i.e. very soon)
 
